@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LD8XKQen8/VI5D6a996SzJupZ2NJ7DreneJP/MSutEA=",
+  "Source": "InvoiceStore",
+  "BasePath": "_content/InvoiceStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q+OMbI7d8tYbk3NdJ16JcnjGeZ2CO0eCZf9J1oNzYM8=",
+  "Source": "TokenStore",
+  "BasePath": "_content/TokenStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
