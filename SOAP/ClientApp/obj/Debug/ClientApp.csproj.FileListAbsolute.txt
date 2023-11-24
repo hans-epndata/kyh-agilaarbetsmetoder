@@ -1,0 +1,7 @@
+C:\education\kyh\SOAP\ClientApp\bin\Debug\ClientApp.exe.config
+C:\education\kyh\SOAP\ClientApp\bin\Debug\ClientApp.exe
+C:\education\kyh\SOAP\ClientApp\bin\Debug\ClientApp.pdb
+C:\education\kyh\SOAP\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\education\kyh\SOAP\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\education\kyh\SOAP\ClientApp\obj\Debug\ClientApp.exe
+C:\education\kyh\SOAP\ClientApp\obj\Debug\ClientApp.pdb

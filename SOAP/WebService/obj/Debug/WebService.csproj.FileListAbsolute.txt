@@ -1,0 +1,7 @@
+C:\education\kyh\SOAP\WebService\bin\WebService.dll.config
+C:\education\kyh\SOAP\WebService\bin\WebService.dll
+C:\education\kyh\SOAP\WebService\bin\WebService.pdb
+C:\education\kyh\SOAP\WebService\obj\Debug\WebService.csproj.AssemblyReference.cache
+C:\education\kyh\SOAP\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\education\kyh\SOAP\WebService\obj\Debug\WebService.dll
+C:\education\kyh\SOAP\WebService\obj\Debug\WebService.pdb

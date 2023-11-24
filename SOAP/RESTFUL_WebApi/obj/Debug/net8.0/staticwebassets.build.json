@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vrrcYzFKEXc1SZNs4zzKKUioQp2TDpyQruNQjVxW0dI=",
+  "Source": "RESTFUL_WebApi",
+  "BasePath": "_content/RESTFUL_WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
