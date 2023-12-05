@@ -1,0 +1,16 @@
+C:\education\kyh\CQRS\Manero.Application\bin\Debug\net8.0\Manero.Application.deps.json
+C:\education\kyh\CQRS\Manero.Application\bin\Debug\net8.0\Manero.Application.dll
+C:\education\kyh\CQRS\Manero.Application\bin\Debug\net8.0\Manero.Application.pdb
+C:\education\kyh\CQRS\Manero.Application\bin\Debug\net8.0\Manero.Domain.dll
+C:\education\kyh\CQRS\Manero.Application\bin\Debug\net8.0\Manero.Domain.pdb
+C:\education\kyh\CQRS\Manero.Application\obj\Debug\net8.0\Manero.Application.csproj.AssemblyReference.cache
+C:\education\kyh\CQRS\Manero.Application\obj\Debug\net8.0\Manero.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\kyh\CQRS\Manero.Application\obj\Debug\net8.0\Manero.Application.AssemblyInfoInputs.cache
+C:\education\kyh\CQRS\Manero.Application\obj\Debug\net8.0\Manero.Application.AssemblyInfo.cs
+C:\education\kyh\CQRS\Manero.Application\obj\Debug\net8.0\Manero.Application.csproj.CoreCompileInputs.cache
+C:\education\kyh\CQRS\Manero.Application\obj\Debug\net8.0\Manero.Application.sourcelink.json
+C:\education\kyh\CQRS\Manero.Application\obj\Debug\net8.0\Manero.Application.csproj.CopyComplete
+C:\education\kyh\CQRS\Manero.Application\obj\Debug\net8.0\Manero.Application.dll
+C:\education\kyh\CQRS\Manero.Application\obj\Debug\net8.0\refint\Manero.Application.dll
+C:\education\kyh\CQRS\Manero.Application\obj\Debug\net8.0\Manero.Application.pdb
+C:\education\kyh\CQRS\Manero.Application\obj\Debug\net8.0\ref\Manero.Application.dll

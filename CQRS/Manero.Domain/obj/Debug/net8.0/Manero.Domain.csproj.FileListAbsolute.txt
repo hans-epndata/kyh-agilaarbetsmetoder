@@ -1,0 +1,12 @@
+C:\education\kyh\CQRS\Manero.Domain\bin\Debug\net8.0\Manero.Domain.deps.json
+C:\education\kyh\CQRS\Manero.Domain\bin\Debug\net8.0\Manero.Domain.dll
+C:\education\kyh\CQRS\Manero.Domain\bin\Debug\net8.0\Manero.Domain.pdb
+C:\education\kyh\CQRS\Manero.Domain\obj\Debug\net8.0\Manero.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\kyh\CQRS\Manero.Domain\obj\Debug\net8.0\Manero.Domain.AssemblyInfoInputs.cache
+C:\education\kyh\CQRS\Manero.Domain\obj\Debug\net8.0\Manero.Domain.AssemblyInfo.cs
+C:\education\kyh\CQRS\Manero.Domain\obj\Debug\net8.0\Manero.Domain.csproj.CoreCompileInputs.cache
+C:\education\kyh\CQRS\Manero.Domain\obj\Debug\net8.0\Manero.Domain.sourcelink.json
+C:\education\kyh\CQRS\Manero.Domain\obj\Debug\net8.0\Manero.Domain.dll
+C:\education\kyh\CQRS\Manero.Domain\obj\Debug\net8.0\refint\Manero.Domain.dll
+C:\education\kyh\CQRS\Manero.Domain\obj\Debug\net8.0\Manero.Domain.pdb
+C:\education\kyh\CQRS\Manero.Domain\obj\Debug\net8.0\ref\Manero.Domain.dll

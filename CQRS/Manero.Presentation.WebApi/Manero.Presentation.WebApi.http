@@ -1,0 +1,6 @@
+@Manero.Presentation.WebApi_HostAddress = http://localhost:5072
+
+GET {{Manero.Presentation.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gpIdVhZOpLt1YrGnmCUcGwB4dd/jGjmepfS0B13pYVg=",
+  "Source": "Manero.Presentation.WebApi",
+  "BasePath": "_content/Manero.Presentation.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

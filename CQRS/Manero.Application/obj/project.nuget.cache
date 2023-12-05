@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LAggj4sJvHpMYGH+2NPuyQQHnoK2eNgbUy/o99hRgjzzxo2AgTTcODpmAn0gS0YrYmJKVKYzNnvhNCC2BfsIIQ==",
+  "success": true,
+  "projectFilePath": "C:\\education\\kyh\\CQRS\\Manero.Application\\Manero.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
